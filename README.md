@@ -12,6 +12,13 @@ The provided dashboard images offer a comprehensive analysis of customer churn d
 2. Churned Customers
 3. Customer Support Ticket Data
 
+![image](https://github.com/user-attachments/assets/3e360ecb-1414-4b93-990d-4b187b4b1a99)
+
+![image](https://github.com/user-attachments/assets/c010ea91-a834-4fe0-a042-473898ab5555)
+
+
+
+
 **Business Use Case**
 
 Businesses with subscription models can utilize such data to identify patterns and root causes of customer churn. By analyzing churn by region, subscription plan, industry, and support ticket types, companies can develop targeted strategies to retain customers. 
